@@ -1,7 +1,6 @@
-Student: Banu Miruna Elena
-Group: 321CA
+# Sheriff of Nottingham 
 
-   For this homework I have implemented the simplified version of the boardgame
+   For this project I have implemented the simplified version of the boardgame
 Sheriff of Nottingham in Java using the basic concepts of object-oriented
 programming. This version was based on three different types of player strategy:
 basic, greedy and bribed.
